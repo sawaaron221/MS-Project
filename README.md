@@ -4,7 +4,9 @@ The project developed two deep convolutional neural networks to upscale low- fid
 <br/>
 
 ![image](https://user-images.githubusercontent.com/130534007/233774850-413bcace-890f-4c6b-a08e-2a2929c463be.png)
-
+<br/>
 ![image](https://user-images.githubusercontent.com/130534007/233774851-acfea444-7f11-4550-b921-2a2c8b09e8ca.png)
+<br/>
+![image](https://user-images.githubusercontent.com/130534007/233775028-d30ae795-3d04-4307-a282-d0487002c675.png)
 
 <br/>
