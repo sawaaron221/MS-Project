@@ -10,3 +10,11 @@ The project developed two deep convolutional neural networks to upscale low- fid
 ![image](https://user-images.githubusercontent.com/130534007/233775028-d30ae795-3d04-4307-a282-d0487002c675.png)
 
 <br/>
+![image](https://user-images.githubusercontent.com/130534007/233775066-500af810-f42f-4647-a4a2-dc3d7fcaa003.png)
+<br/>
+![image](https://user-images.githubusercontent.com/130534007/233775096-c3d550ba-dbf9-4997-9de4-e6dce1f03f64.png)
+<br/>
+
+<br/>
+
+<br/>
