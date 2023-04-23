@@ -1,7 +1,8 @@
 <h1> Developing Convolutional Neural Network Models to Mitigate Computation Time for Computational Fluid Dynamics </h1>
 <h2> Description </h2>
 The project developed two deep convolutional neural networks (CNN) to upscale low- fidelity computational fluid dynamics (CFD) to high- fidelity CFD simulations. The study focused on two-dimensional flows with five different airfoils geometries under subsonic flow conditions. The coarse and fine datasets, used as the inputs and the ground truths, respectively, were generated using ANSYS Fluent. The machine learning models were built using Python and TensorFlow.
-<br/><br/>
+<br/>
+<br/>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/130534007/233774850-413bcace-890f-4c6b-a08e-2a2929c463be.png"/>
   
