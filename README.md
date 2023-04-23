@@ -5,7 +5,7 @@ The project developed two deep convolutional neural networks (CNN) to upscale lo
 <br/>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/130534007/233774850-413bcace-890f-4c6b-a08e-2a2929c463be.png"/>
-<p align="center">
+
 ![image](https://user-images.githubusercontent.com/130534007/233774850-413bcace-890f-4c6b-a08e-2a2929c463be.png)
 <br/>
 ![image](https://user-images.githubusercontent.com/130534007/233774851-acfea444-7f11-4550-b921-2a2c8b09e8ca.png)
