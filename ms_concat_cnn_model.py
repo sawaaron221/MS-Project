@@ -1,7 +1,6 @@
 """
 Aaron Tun
 MS Project: Concatenated CNN Model 
-SID: 008855652
 """
 # -----------------------------------------------------------------------------
 # The following blocks of code separated by the 3 “# ++++” lines were taken 
