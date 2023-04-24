@@ -12,6 +12,7 @@ Figure 1. This is the fine-grid mesh for NACA-6409 airfoil. The mesh has a total
 <br/>
 <br/>
 Table 1 – Number of elements for coarse and fine meshes.  <br/>
-<img src="https://user-images.githubusercontent.com/130534007/233818941-b4b96ce2-192e-4a88-a794-20bb8ed22e6f.png" height="70%" width="70%"/>
+<img src="https://user-images.githubusercontent.com/130534007/233818941-b4b96ce2-192e-4a88-a794-20bb8ed22e6f.png" height="80%" width="80%"/>
 <br/>
 </p>
+<h4> Machine Learning Models: Shows the total parameters of each model and diagrams of the CNN architecture. </h4>
