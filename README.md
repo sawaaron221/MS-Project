@@ -44,4 +44,5 @@ Figure 4 – NACA-6409 velocity contour at a high angle of attack, α>35^o. The 
 <img src="https://user-images.githubusercontent.com/130534007/233895278-4b6a2807-4749-46a6-85b6-c7d1fc03d8d3.png" height="70%" width="70%"/>
 <br/>
 Figure 5 – This image represents NACA 6409 airfoil at a high angle of attack, α>35^o. The difference between the ground truth and the predictions from the models are highlighted with the white square. 
-
+</p>
+<h2>Conclusion: </h2>
