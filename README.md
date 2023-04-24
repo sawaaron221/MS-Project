@@ -16,3 +16,6 @@ Table 1 – Number of elements for coarse and fine meshes.  <br/>
 <br/>
 </p>
 <h4> Machine Learning Models: Shows the total parameters of each model and diagrams of the CNN architecture. </h4>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/130534007/233892594-f08ab0b7-be7f-4855-80d6-b1dafd2418f1.png" height="80%" width="80%"/>
+<br/>
