@@ -15,7 +15,7 @@ Table 1 – Number of elements for coarse and fine meshes.  <br/>
 <img src="https://user-images.githubusercontent.com/130534007/233892467-c58bf97c-cf30-4f6f-b20d-bab3e0b9947b.png" height="80%" width="80%"/>
 <br/>
 </p>
-<h4>Machine Learning Models: Shows the total parameters of each model and diagrams of the CNN architecture.</h4>
+<h3>Machine Learning Models: Shows the total parameters of each model and diagrams of the CNN architecture.</h3>
 <p align="center">
 Table 2 – 1st Model: Concatenated Convolutional Neural Network
 <img src="https://user-images.githubusercontent.com/130534007/233892972-1f6e557f-e54b-4196-8928-f6187fbe64ca.png" height="80%" width="80%"/>
