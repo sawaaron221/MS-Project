@@ -3,13 +3,9 @@ Aaron Tun
 MS Project 
 """
 import os
-IS_COLAB_BACKEND = 'COLAB_GPU' in os.environ  # this is always set on Colab, 
-                                              # the value is 0 or 1 depending 
-                                              # on GPU presence
+IS_COLAB_BACKEND = 'COLAB_GPU' in os.environ  
 if IS_COLAB_BACKEND:
   from google.colab import auth
-  # Authenticates the Colab machine and TPU using 
-  # credentials so that they can access the private GCS buckets.
   auth.authenticate_user()
 
 # install tensorboard plugin
