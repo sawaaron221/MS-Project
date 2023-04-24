@@ -1,7 +1,6 @@
 """
 Aaron Tun
 MS Project 
-SID: 008855652
 """
 import os
 IS_COLAB_BACKEND = 'COLAB_GPU' in os.environ  # this is always set on Colab, 
