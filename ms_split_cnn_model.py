@@ -1,7 +1,6 @@
 """
 Aaron Tun
 MS Project: Split CNN Model 
-SID: 008855652
 """
 import os
 # -----------------------------------------------------------------------------
@@ -15,8 +14,6 @@ IS_COLAB_BACKEND = 'COLAB_GPU' in os.environ
                                              
 if IS_COLAB_BACKEND:
   from google.colab import auth
-  # Authenticates the Colab machine and TPU using 
-  # credentials so that they can access the private GCS buckets.
   auth.authenticate_user()
 
 # -----------------------------------------------------------------------------
